@@ -12,7 +12,7 @@ public class ArrayNilai26 {
         }
 
         for (int i = 0; i < 10; i++) {
-            System.out.println("NIlai akhir ke-"+1+" adalah "+nilaiAkhir[i]);
+            System.out.println("NIlai akhir ke-"+i+" adalah "+nilaiAkhir[i]);
         }
     }
 }
